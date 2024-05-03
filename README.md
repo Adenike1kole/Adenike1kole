@@ -1,7 +1,14 @@
 👋 Welcome to my profile!
 
-I am Segun Umoru, a Data Scientist and Data Analytics with a keen interest in Machine learning. I train people on Python for Data science and Machine learning, and I am always looking for opportunities to collaborate on Data Science and Machine Learning projects.
+I am Adenike S. Koledafe, a junior data scientist and data analyst with a unique background in administration. Before transitioning into data science, I spent 7 years mastering the ins and outs of office administration, honing my skills with the Microsoft Office Suite, and learning how to manage complex projects and streamline operations.
 
-My goal is to use my skills and knowledge to contribute to the development of innovative solutions that solve real-world problems and make a positive impact on society.
+Now, I'm applying my administrative experience to the world of data. My previous work has given me a keen eye for detail, strong organizational skills, and a deep understanding of business processes—all of which complement my passion for data analysis and data-driven decision-making.
 
-Feel free to connect with me on [Twitter](https://twitter.com/SegunUmoru), [Kaggle](https://www.kaggle.com/segunumoru), or [LinkedIn](https://www.linkedin.com/in/segun-umoru/) using the links provided. I believe that life is beautiful when we work together as one, and I look forward to collaborating with you on exciting projects in the future.
+On my GitHub, you'll find projects that reflect my journey into data science, showcasing my proficiency in Python, SQL, and Tableau for visualization. I enjoy working on projects that require a combination of analytical skills and organizational understanding, drawing from my administrative background to keep things running smoothly.
+
+I'm always excited to collaborate and explore new ways to leverage data for better outcomes.
+
+If you'd like to connect or discuss data science, administration, or anything in between, feel free to reach out or connect with me on LinkedIn 
+
+Thanks for visiting my GitHub, and I hope you find my work interesting!"
+
