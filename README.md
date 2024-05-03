@@ -8,7 +8,7 @@ On my GitHub, you'll find projects that reflect my journey into data science, sh
 
 I'm always excited to collaborate and explore new ways to leverage data for better outcomes.
 
-If you'd like to connect or discuss data science, administration, or anything in between, feel free to reach out or connect with me on LinkedIn 
+If you'd like to connect or discuss data science, administration, or anything in between, feel free to reach out or connect with me on LinkedIn
 
 Thanks for visiting my GitHub, and I hope you find my work interesting!"
 
